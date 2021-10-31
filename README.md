@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KXRXH&theme=tokyonight&show_icons=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KXRXH&theme=tokyonight&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=tokyonight&show_icons=true)
 
