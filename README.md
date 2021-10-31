@@ -1,4 +1,4 @@
-### Welcome to my profile!🐖
+### 🐖Welcome to my profile!🐖
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KXRXH&theme=tokyonight&show_icons=true)
 
