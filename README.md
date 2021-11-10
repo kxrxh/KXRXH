@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KXRXH&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=tokyonight&show_icons=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=tokyonight&show_icons=true)
 
 
 <!--
