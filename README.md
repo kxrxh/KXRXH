@@ -3,22 +3,28 @@
 
 ### Languages and tools
 
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go&logoColor=007396)
-![Gorm](https://img.shields.io/badge/-Gorm-000?&logo=Go&logoColor=007396)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go&logoColor=00FFFF)
+![Gorm](https://img.shields.io/badge/-Gorm-000?&logo=Go&logoColor=00FFFF)
+![Fiber](https://img.shields.io/badge/-Fiber-000?&logo=Go&logoColor=00FFFF)
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Aiogram](https://img.shields.io/badge/-AIOgram-000?&logo=Telegram)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+
+![SqLite](https://img.shields.io/badge/-SqLite-000?&logo=SqLite&logoColor=89CFF0)
 
 
 
 ## Os
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=00adef)
 
 ## I code in
 ![GoLand](https://img.shields.io/badge/-GoLand-000?&logo=GoLand&logoColor=A020F0)
