@@ -17,8 +17,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Aiogram](https://img.shields.io/badge/-AIOgram-000?&logo=Telegram)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![SqLite](https://img.shields.io/badge/-SqLite-000?&logo=SqLite&logoColor=89CFF0)
 
 
