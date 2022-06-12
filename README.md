@@ -10,6 +10,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
