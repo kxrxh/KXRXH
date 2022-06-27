@@ -1,7 +1,14 @@
 ### 🌜Welcome to my profile!🌛
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KXRXH&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=tokyonight&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KXRXH&theme=midnight-purple&show_icons=true" />
+</a>
 
 ### Languages and tools
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=midnight-purple&show_icons=true&langs_count=8" />
+</a>
+<br>
 
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go&logoColor=00FFFF)
 ![Gorm](https://img.shields.io/badge/-Gorm-000?&logo=Go&logoColor=00FFFF)
@@ -21,16 +28,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![SqLite](https://img.shields.io/badge/-SqLite-000?&logo=SqLite&logoColor=89CFF0)
 
-
-
-## Os
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=00adef)
-
-## I code in
-![GoLand](https://img.shields.io/badge/-GoLand-000?&logo=GoLand&logoColor=A020F0)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=PyCharm&logoColor=E3E500)
-![CLion](https://img.shields.io/badge/-CLion-000?&logo=CLion&logoColor=21B6A8)
-![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=WebStorm&logoColor=00BFFF)
 <!--
 **KXRXH/KXRXH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
