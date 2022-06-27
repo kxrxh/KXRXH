@@ -1,11 +1,11 @@
 ### 🌜Welcome to my profile!🌛
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/KXRXH">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KXRXH&theme=midnight-purple&show_icons=true" />
 </a>
 
 ### Languages and tools
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/KXRXH">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=midnight-purple&show_icons=true&langs_count=8" />
 </a>
 <br>
