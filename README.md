@@ -29,7 +29,7 @@
 
 ### OS
 - Windows 11
-- Fedora 36
+- POP!_OS
 <!--
 **KXRXH/KXRXH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
