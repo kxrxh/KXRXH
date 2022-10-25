@@ -27,9 +27,9 @@
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![SqLite](https://img.shields.io/badge/-SqLite-000?&logo=SqLite&logoColor=89CFF0)
 
-### OS
+### I use
 - Windows 11
-- POP!_OS
+- Manjaro GNOME
 <!--
 **KXRXH/KXRXH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
