@@ -29,7 +29,7 @@
 
 ### I use
 - Windows 11
-- Manjaro GNOME
+- Manjaro KDE
 <!--
 **KXRXH/KXRXH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
