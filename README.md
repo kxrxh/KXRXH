@@ -30,6 +30,9 @@
 ### I use
 - Windows 11
 - Manjaro KDE
+
+ ![](https://komarev.com/ghpvc/?username=KXRXH&style=for-the-badge&color=grey)
+
 <!--
 **KXRXH/KXRXH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
