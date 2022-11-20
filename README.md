@@ -30,8 +30,8 @@
 ![SqLite](https://img.shields.io/badge/-SqLite-000?&logo=SqLite&logoColor=89CFF0)
 
 ### I use
-- Windows 11
-- Manjaro KDE
+- ![Manjaro](https://img.shields.io/badge/--000?&logo=windows) Windows 11
+- ![Manjaro](https://img.shields.io/badge/--000?&logo=manjaro) Manjaro KDE
 
  ![](https://komarev.com/ghpvc/?username=KXRXH&style=for-the-badge&color=grey)
 
