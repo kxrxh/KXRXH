@@ -10,6 +10,9 @@
 </a>
 <br>
 
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql&logoColor=89CFF0)
+
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go&logoColor=00FFFF)
 ![Gorm](https://img.shields.io/badge/-Gorm-000?&logo=Go&logoColor=00FFFF)
 ![Fiber](https://img.shields.io/badge/-Fiber-000?&logo=Go&logoColor=00FFFF)
