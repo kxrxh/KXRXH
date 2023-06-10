@@ -22,7 +22,7 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
 ![SqLite](https://img.shields.io/badge/-SqLite-000?&logo=SqLite&logoColor=89CFF0)
 
-#### A bit of:
+#### Also I know a bit of:
 
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
