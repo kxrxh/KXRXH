@@ -18,7 +18,6 @@
 ![Fiber](https://img.shields.io/badge/-Fiber-000?&logo=Go&logoColor=00FFFF)
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
 ![SqLite](https://img.shields.io/badge/-SqLite-000?&logo=SqLite&logoColor=89CFF0)
