@@ -5,7 +5,7 @@
 
 
 ### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=midnight-purple&show_icons=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=midnight-purple&show_icons=true&langs_count=10" />
 
 ### Databases
 ![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
