@@ -21,7 +21,7 @@
 ### Find me on
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wcg8zdnlk0f3sjo435oz8ufgu)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wcg8zdnlk0f3sjo435oz8ufgu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=wcg8zdnlk0f3sjo435oz8ufgu&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wcg8zdnlk0f3sjo435oz8ufgu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=1c71d8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=wcg8zdnlk0f3sjo435oz8ufgu&redirect=true)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KXRXH)
 
