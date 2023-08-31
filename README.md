@@ -14,9 +14,9 @@
 ![SqLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### I use
-![Manjaro](https://img.shields.io/badge/--000?&logo=windows) Windows 11
+![Windows 11](https://img.shields.io/badge/--000?&logo=windows) Windows 11
 
-![Manjaro](https://img.shields.io/badge/--000?&logo=manjaro) Manjaro KDE
+![EndeavourOS](https://img.shields.io/badge/--000?&logo=kde) EndeavourOS KDE
 
 ### Find me on
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wcg8zdnlk0f3sjo435oz8ufgu)
