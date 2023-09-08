@@ -1,44 +1,64 @@
-### 🌜Welcome to my profile!🌛
-<img src="https://gifdb.com/images/high/initial-d-takumi-fujiwara-sipping-juice-j4housg25grvvp05.webp" width=50% height=50%>
+<div align="center">
+  <h1>🌜 Welcome to my profile! 🌛</h1>
+  <p>
+    <img src="https://gifdb.com/images/high/initial-d-takumi-fujiwara-sipping-juice-j4housg25grvvp05.webp" width="50%" height="auto">
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=KXRXH&style=for-the-badge&color=grey" alt="Profile Views">
+  </p>
+</div>
 
- ![](https://komarev.com/ghpvc/?username=KXRXH&style=for-the-badge&color=grey)
+<div align="center">
+  <h2>👨‍🎓 About Me</h2>
+  <p>
+    I'm a student at ITMO University 🎓 pursuing a degree in System and Applied Software 🧑‍💻. I have a passion for backend and I specialize in languages such as Go, Rust, and Java.
+  </p>
 
-### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=midnight-purple&show_icons=true&langs_count=10" />
+  <h2>🚀 Technologies & Languages</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=midnight-purple&show_icons=true&langs_count=10" width="60%" height="auto">
+  </p>
 
-### Databases
-![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  <h2>💾 Databases</h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  </p>
+</div>
 
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+<div align="center">
+  <h2>🌐 Frameworks & Libraries</h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Gorm-000000?style=for-the-badge&logo=go&logoColor=white" alt="Gorm">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+    <img src="https://img.shields.io/badge/Go_Fiber-00ADD8?style=for-the-badge&logo=gofiber&logoColor=white" alt="Go Fiber">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI">
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
+    <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri">
+  </p>
 
-![SqLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  <h2>🎶 Music & Gaming</h2>
+  <p align="center">
+    <a href="https://open.spotify.com/user/wcg8zdnlk0f3sjo435oz8ufgu">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+    </a>
+    <a href="https://steamcommunity.com/id/KXRXH">
+      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+    </a>
+  </p>
+</div>
 
-### I use
-![Windows 11](https://img.shields.io/badge/--000?&logo=windows) Windows 11
+<div align="center">
+  <h2>🔥 Hardware</h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Intel-Core_i7_10700K-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="CPU">
+    <img src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU">
+  </p>
 
-![EndeavourOS](https://img.shields.io/badge/--000?&logo=kde) EndeavourOS KDE
-
-### Find me on
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wcg8zdnlk0f3sjo435oz8ufgu)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wcg8zdnlk0f3sjo435oz8ufgu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=1c71d8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=wcg8zdnlk0f3sjo435oz8ufgu&redirect=true)
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KXRXH)
-
-### Machine
-![CPU](https://img.shields.io/badge/Intel-Core_i7_10700K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-<!--
-**KXRXH/KXRXH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>📚 Learning</h2>
+  <p align="center">
+    Currently exploring new technologies and enjoying the journey! 🚀
+  </p>
+</div>
