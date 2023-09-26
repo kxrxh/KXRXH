@@ -11,7 +11,7 @@
 <div align="center">
   <h2>👨‍🎓 About Me</h2>
   <p>
-    I'm a student at ITMO University 🎓 pursuing a degree in System and Applied Software 🧑‍💻. I have a passion for backend and I specialize in languages such as Go, Rust, and Java.
+    I'm a student at ITMO University 🎓 pursuing a degree in System and Applied Software 🧑‍💻. I have a passion for backend and I specialize in languages such as Go, Rust, and Java (also a bit of x86 asm 🤓).
   </p>
 
   <h2>🚀 Technologies & Languages</h2>
