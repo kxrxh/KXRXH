@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI">
     <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
     <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri">
+    <img src="https://img.shields.io/badge/Ionic-000000?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
   </p>
 
   <h2>🎶 Music & Gaming</h2>
