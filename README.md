@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>🌜 Welcome to my profile! 🌛</h1>
+  <h1>Hello there!</h1>
   <p>
-    <img src="https://gifdb.com/images/high/initial-d-takumi-fujiwara-sipping-juice-j4housg25grvvp05.webp" width="50%" height="auto">
+    <img src="https://media.tenor.com/ClDOpXBKANIAAAAC/anime-silly-dance.gif" width="50%" height="auto">
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=KXRXH&style=for-the-badge&color=grey" alt="Profile Views">
