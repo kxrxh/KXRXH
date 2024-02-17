@@ -4,7 +4,7 @@
     <img src="https://media.tenor.com/ClDOpXBKANIAAAAC/anime-silly-dance.gif" width="50%" height="auto">
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=KXRXH&style=for-the-badge&color=grey" alt="Profile Views">
+    <img src="https://count.getloli.com/get/@kxrxh?theme=rule34" alt=":name" />
   </p>
 </div>
 
