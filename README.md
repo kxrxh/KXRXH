@@ -9,11 +9,6 @@
 </div>
 
 <div align="center">
-  <h2>👨‍🎓 About Me</h2>
-  <p>
-    I'm a student at ITMO University 🎓 pursuing a degree in System and Applied Software 🧑‍💻. I have a passion for backend and I specialize in languages such as Go, Rust (also a bit of x86 asm / C 🤓).
-  </p>
-
   <h2>🚀 Technologies & Languages</h2>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=midnight-purple&show_icons=true&langs_count=10" width="60%" height="auto">
@@ -57,10 +52,5 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Intel-Core_i7_10700K-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="CPU">
     <img src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU">
-  </p>
-
-  <h2>📚 Learning</h2>
-  <p align="center">
-    Currently exploring new technologies and enjoying the journey! 🚀
   </p>
 </div>
