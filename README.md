@@ -46,14 +46,15 @@
       </p>
     </td>
   </tr>
+<tr>
+  <td align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kxrxh&bg_color=000000&color=c061cb&line=613583&point=9141ac&area=true&hide_border=true" alt="Ashutosh's github activity graph" width="80%">
+  </td>
+  <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=midnight-purple&show_icons=true&langs_count=15">
+  </td>
+</tr>
 </table>
-
-<div align="center">
-  <h2>🚀 Languages statistics</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=midnight-purple&show_icons=true&langs_count=10" width="40%" height="auto">
-  </p>
-</div>
 
 
 
