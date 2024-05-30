@@ -1,7 +1,10 @@
 <div align="center">
   <h1>🐸 Welcome to me profile! 🐸</h1>
   <p>
-    <img src="https://count.getloli.com/get/@kxrxh?theme=rule34" alt=":name" />
+    <img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=kxrxh&include_all_commits=true&pixelate_avatar=true&theme=journey&theme=journey&color=%23ffffffFF" width="60%" height="auto">
+  </p>
+  <p>
+    <img src="https://count.getloli.com/get/@kxrxh?theme=rule34" width="20%" height="auto"/>
   </p>
 </div>
 
