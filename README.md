@@ -48,7 +48,7 @@
   </tr>
 <tr>
   <td align="center" colspan="2">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kxrxh&bg_color=000000&color=c061cb&line=613583&point=9141ac&area=true&hide_border=true" alt="Ashutosh's github activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kxrxh&bg_color=000000&color=ffffff&line=deddda&point=f6f5f4&area=true&hide_border=true" alt="github activity graph">
   </td>
 </table>
 
