@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h2>🚀 Technologies & Languages</h2>
+  <h2>🚀 Languages</h2>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXRXH&layout=compact&theme=midnight-purple&show_icons=true&langs_count=10" width="40%" height="auto">
   </p>
