@@ -1,12 +1,21 @@
 <div align="center">
   <h1>🐸 Welcome to me profile! 🐸</h1>
-  <p>
-    <img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=kxrxh&include_all_commits=true&pixelate_avatar=true&theme=journey&theme=journey&color=%23ffffffFF" width="60%" height="auto">
-  </p>
-  <p>
-    <img src="https://count.getloli.com/get/@kxrxh?theme=rule34" width="20%" height="auto"/>
-  </p>
 </div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=kxrxh&include_all_commits=true&pixelate_avatar=true&theme=journey&theme=journey&color=%23ffffffFF" width="80%" height="auto">
+      <br>
+      <img src="https://count.getloli.com/get/@kxrxh?theme=rule34" width="20%" height="auto" alt="You are first today 👋"/>
+    </td>
+    <td align="center">
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=wcg8zdnlk0f3sjo435oz8ufgu&redirect=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=wcg8zdnlk0f3sjo435oz8ufgu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" width="100%" height="auto">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <h2>🚀 Languages</h2>
@@ -38,9 +47,6 @@
     <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=ffa500" alt="Grafana">
     <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=e6522c" alt="Prometheus">
   </p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wcg8zdnlk0f3sjo435oz8ufgu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=wcg8zdnlk0f3sjo435oz8ufgu&redirect=true)
-
 </div>
 
 
