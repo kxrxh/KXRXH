@@ -44,6 +44,9 @@
         <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=ffa500" alt="Grafana">
         <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=e6522c" alt="Prometheus">
       </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=008ddf" alt="Docker">
+      </p>
     </td>
   </tr>
 <tr>
