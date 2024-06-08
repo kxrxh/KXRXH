@@ -41,6 +41,7 @@
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=f60" alt="RabbitMQ">
+        <img src="https://img.shields.io/badge/NATS.io-000000?style=for-the-badge&logo=nats&logoColor=f60" alt="NATS.io">
         <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=ffa500" alt="Grafana">
         <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=e6522c" alt="Prometheus">
       </p>
