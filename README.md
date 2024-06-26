@@ -34,6 +34,7 @@
       <h2>🌐 Frameworks, Libraries and Tools</h2>
       <p align="center">
         <img src="https://img.shields.io/badge/Go Fiber-000000?style=for-the-badge&logo=go&logoColor=5dc9e2" alt="Go Fiber">
+        <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009485" alt="FastAPI">
         <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61dafb" alt="React">
         <img src="https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=qt&logoColor=41CD52" alt="Qt">
         <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri">
