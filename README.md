@@ -45,12 +45,7 @@
 </div>
 
 <!-- Contact Section with Animated Icons -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-    Connect with me
-  </h2>
-  
+<div align="center">  
   [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kxrxh)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kxrxh.contact@gmail.com)
 </div>
