@@ -43,12 +43,5 @@
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kxrxh&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
-
-<!-- Contact Section with Animated Icons -->
-<div align="center">  
-  [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kxrxh)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kxrxh.contact@gmail.com)
-</div>
-
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3CCF91,100:3B82F6&height=120&section=footer"/>
